@@ -73,32 +73,30 @@
   </g>
 
   <!-- main name -->
-  <text x="600" y="92" text-anchor="middle"
-        fill="#ECFEFF"
-        font-family="Inter, Arial, sans-serif"
-        font-size="36"
-        font-weight="700"
-        letter-spacing="1">
-    Cleidyanne Castro
-  </text>
+  <text x="600" y="82" text-anchor="middle"
+      fill="#ECFEFF"
+      font-family="Inter, Arial, sans-serif"
+      font-size="44"
+      font-weight="700"
+      letter-spacing="1">
+  Cleidyanne Castro
+</text>
 
-  <!-- professional subtitle -->
-  <text x="600" y="124" text-anchor="middle"
-        fill="#99F6E4"
-        font-family="Inter, Arial, sans-serif"
-        font-size="16"
-        font-weight="600"
-        letter-spacing="2">
-    DATA ENGINEERING • AI ENGINEERING • BUSINESS/CUSTOMER EXPERIENCE
-  </text>
+<text x="600" y="132" text-anchor="middle"
+      fill="#99F6E4"
+      font-family="Inter, Arial, sans-serif"
+      font-size="18"
+      font-weight="600"
+      letter-spacing="2">
+  DATA ENGINEERING • AI ENGINEERING • BUSINESS • CUSTOMER EXPERIENCE
+</text>
 
-  <!-- tagline -->
-  <text x="600" y="154" text-anchor="middle"
-        fill="#D1FAE5"
-        font-family="Inter, Arial, sans-serif"
-        font-size="13"
-        font-weight="500"
-        letter-spacing="2.2">
-    BUILDING SYSTEMS THAT CONNECT INFORMATION TO ACTION
-  </text>
+<text x="600" y="170" text-anchor="middle"
+      fill="#D1FAE5"
+      font-family="Inter, Arial, sans-serif"
+      font-size="15"
+      font-weight="500"
+      letter-spacing="2.2">
+  BUILDING SYSTEMS THAT CONNECT INFORMATION TO ACTION
+</text>
 </svg>
