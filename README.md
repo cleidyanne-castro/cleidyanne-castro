@@ -1,23 +1,15 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14b8a6,100:5eead4&height=210&section=header&text=Cleidyanne%20Castro&fontSize=48&fontColor=ffffff&animatio[...]" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Building+data+pipelines+and+AI-powered+solutions[...]" />
-</a>
-
-<br/>
-<div align="center">
   <img
     width="100%"
     src="https://raw.githubusercontent.com/cleidyanne-castro/cleidyanne-castro/main/assets/tech-grid.svg"
-    alt="Animated clean technology background"
+    alt="Cleidyanne Castro - Data Engineering | AI Engineering"
   />
-</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleidyanne-castro-pereira-612506160/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annecbs93@gmail.com)
 
+  <br/><br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleidyanne-castro-pereira-612506160/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annecbs92@gmail.com)
 </div>
 
 ---
