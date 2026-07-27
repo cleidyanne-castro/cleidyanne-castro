@@ -1,0 +1,24 @@
+GITHUB PROFILE SETUP — CLEIDYANNE CASTRO
+
+1. Confirme seu nome de usuário no GitHub.
+   Este template usa: cleidyanne-castro
+
+2. Crie um repositório PÚBLICO chamado exatamente:
+   cleidyanne-castro
+
+3. Envie estes arquivos mantendo a estrutura:
+   - README.md
+   - .github/workflows/snake.yml
+
+4. No README.md, substitua:
+   - REPLACE-WITH-YOUR-LINKEDIN
+   - REPLACE-WITH-YOUR-EMAIL
+   - Links de projetos que tenham nomes diferentes
+
+5. Abra a aba Actions do repositório.
+   Selecione "Generate contribution snake" e clique em "Run workflow".
+
+6. Após a execução, a cobrinha animada aparecerá no perfil.
+   O workflow também será atualizado diariamente.
+
+7. Fixe seus melhores repositórios no perfil.
