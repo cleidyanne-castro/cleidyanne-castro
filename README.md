@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14b8a6,100:5eead4&height=210&section=header&text=Cleidyanne%20Castro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20AI%20Engineering%20%7C%20Customer%20Success&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14b8a6,100:5eead4&height=210&section=header&text=Cleidyanne%20Castro&fontSize=48&fontColor=ffffff&animatio[...]" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Building+data+pipelines+and+AI-powered+solutions;Python+%7C+SQL+%7C+Spark+%7C+Databricks+%7C+AWS;Turning+business+problems+into+technical+solutions;Learning%2C+building%2C+documenting%2C+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Building+data+pipelines+and+AI-powered+solutions[...]" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/cleidyanne-castro-pereira-612506160/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleidyanne-castro-pereira-612506160/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annecbs93@gmail.com)
 
@@ -171,7 +171,7 @@ AI Engineering
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cleidyanne-castro&show_icons=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=64748b" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cleidyanne-castro&show_icons=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=647[...]" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleidyanne-castro&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=64748b" />
 
 <br/>
