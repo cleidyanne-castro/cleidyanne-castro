@@ -14,7 +14,7 @@
 
 ---
 
-##About me
+## About me
 
 I am a technology professional transitioning from **Customer Success and Operations into Data and AI Engineering**, combining strong business communication with hands-on technical experience.
 
@@ -29,11 +29,11 @@ I am a technology professional transitioning from **Customer Success and Operati
 
 ---
 
-##Tech stack
+## Tech stack
 
 <div align="center">
 
-###Data Engineering & Analytics
+### Data Engineering & Analytics
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite" />
 
@@ -46,7 +46,7 @@ I am a technology professional transitioning from **Customer Success and Operati
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
 
-###AI, RAG & Backend
+### AI, RAG & Backend
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,sklearn" />
 
@@ -57,7 +57,7 @@ I am a technology professional transitioning from **Customer Success and Operati
 <img src="https://img.shields.io/badge/Vector_Databases-Embeddings-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_APIs-Backend-059669?style=for-the-badge"/>
 
-###Cloud, Dev Tools & Workflow
+### Cloud, Dev Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,docker,linux" />
 
@@ -65,13 +65,13 @@ I am a technology professional transitioning from **Customer Success and Operati
 
 ---
 
-##Featured projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###E-commerce RAG Chatbot
+### E-commerce RAG Chatbot
 
 A squad project combining **data engineering, retrieval, and generative AI** for an e-commerce assistant.
 
@@ -88,7 +88,7 @@ A squad project combining **data engineering, retrieval, and generative AI** for
 </td>
 <td width="50%" valign="top">
 
-###Semantic Book RAG
+### Semantic Book RAG
 
 A mini-RAG application that performs semantic retrieval across a collection of books and answers subjective questions using relevant passages.
 
@@ -108,7 +108,7 @@ A mini-RAG application that performs semantic retrieval across a collection of b
 <tr>
 <td width="50%" valign="top">
 
-###Clinical RAG Assistant
+### Clinical RAG Assistant
 
 A collaborative RAG project focused on educational information about high blood pressure.
 
@@ -125,7 +125,7 @@ A collaborative RAG project focused on educational information about high blood 
 </td>
 <td width="50%" valign="top">
 
-###FastAPI CRUD API
+### FastAPI CRUD API
 
 A backend learning project developed during the FlyRank AI Internship, evolving from an in-memory CRUD API to persistent SQLite storage.
 
@@ -145,7 +145,7 @@ A backend learning project developed during the FlyRank AI Internship, evolving 
 
 ---
 
-##Current learning journey
+## Current learning journey
 
 ```text
 Data Engineering
@@ -165,7 +165,7 @@ AI Engineering
 
 ---
 
-##GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -180,7 +180,7 @@ AI Engineering
 
 ---
 
-##What I bring
+## What I bring
 
 ```yaml
 technical:
@@ -202,7 +202,7 @@ business:
 
 <div align="center">
 
-##Let’s connect and build something useful.
+## Let’s connect and build something useful.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14b8a6,100:5eead4&height=120&section=footer"/>
 
