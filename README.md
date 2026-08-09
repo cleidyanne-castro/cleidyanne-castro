@@ -67,15 +67,12 @@ I am a technology professional transitioning from **Customer Success and Operati
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### E-commerce RAG Chatbot
 
 A squad project combining **data engineering, retrieval, and generative AI** for an e-commerce assistant.
 
 **My contribution**
+
 - Data ingestion and transformation
 - Bronze, Silver, and Gold layers
 - Python, SQL, Spark, and Databricks
@@ -85,34 +82,42 @@ A squad project combining **data engineering, retrieval, and generative AI** for
 
 [View repository →](https://github.com/cleidyanne-castro/ecommerce-rag-chatbot)
 
-</td>
-<td width="50%" valign="top">
+### AWS Digital Bank Triage Assistant
 
-### Semantic Book RAG
+An AI-assisted banking workflow designed to classify customer requests and route cases based on intent and urgency.
 
-A mini-RAG application that performs semantic retrieval across a collection of books and answers subjective questions using relevant passages.
+**My contribution**
 
-**Highlights**
-- Document ingestion and chunking
-- Embeddings and semantic search
-- Context retrieval for LLM responses
-- End-to-end RAG experimentation
+- AI workflow design and classification logic
+- Prompt-driven routing and structured decision flows
+- Python-based implementation
+- AWS architecture and collaborative Git workflow
 
-**Stack:** `Python` `Embeddings` `Vector Search` `LLMs` `RAG`
+**Stack:** `AWS` `Python` `LLM Workflows` `AI Triage`
 
-[View my repositories →](https://github.com/cleidyanne-castro?tab=repositories)
+[View repository →](https://github.com/cleidyanne-castro/aws-digital-bank-triage-assistant)
 
-</td>
-</tr>
+### BCB Databricks Case
 
-<tr>
-<td width="50%" valign="top">
+An end-to-end Databricks Lakehouse pipeline transforming Brazilian Central Bank SELIC and IPCA data into analytics-ready datasets.
+
+**My contribution**
+
+- Data ingestion and transformation pipeline
+- Bronze, Silver, and Gold Medallion layers
+- Data-quality checks and idempotent processing
+- Gold-layer modeling for economic indicators
+
+**Stack:** `Databricks` `Python` `SQL` `Delta Lake` `Medallion Architecture`
+
+[View repository →](https://github.com/cleidyanne-castro/bcb-databricks-case)
 
 ### Clinical RAG Assistant
 
 A collaborative RAG project focused on educational information about high blood pressure.
 
 **My contribution**
+
 - Data engineering workflow
 - Source preparation and cleaning
 - Python-based ingestion pipeline
@@ -122,30 +127,9 @@ A collaborative RAG project focused on educational information about high blood 
 
 [View my repositories →](https://github.com/cleidyanne-castro?tab=repositories)
 
-</td>
-<td width="50%" valign="top">
-
-### FastAPI CRUD API
-
-A backend learning project developed during the FlyRank AI Internship, evolving from an in-memory CRUD API to persistent SQLite storage.
-
-**Highlights**
-- REST endpoints and validation
-- HTTP status codes and error handling
-- SQLite persistence
-- Incremental Git workflow and documentation
-
-**Stack:** `Python` `FastAPI` `SQLite` `REST API`
-
-[View FlyRank work →](https://github.com/cleidyanne-castro?tab=repositories)
-
-</td>
-</tr>
-</table>
-
 ---
 
-## Current learning journey
+## Current journey
 
 ```text
 Data Engineering
