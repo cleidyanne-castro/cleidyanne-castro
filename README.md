@@ -149,21 +149,6 @@ AI Engineering
 
 ---
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cleidyanne-castro&show_icons=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=647[...]" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleidyanne-castro&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=64748b" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=cleidyanne-castro&theme=transparent&hide_border=true&ring=14B8A6&fire=0F766E&currStreakLabel=14B8A6" />
-
-</div>
-
----
-
 ## What I bring
 
 ```yaml
