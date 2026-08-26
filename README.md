@@ -8,8 +8,8 @@
   <br/><br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleidyanne-castro-pereira-612506160/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annecbs92@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Live-14B8A6?style=for-the-badge&logo=githubpages&logoColor=white)](https://cleidyanne-castro.github.io/cleidyanne-castro/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annecbs93@gmail.com)
 </div>
 
 ---
@@ -80,7 +80,7 @@ A squad project combining **data engineering, retrieval, and generative AI** for
 
 **Stack:** `Python` `SQL` `Spark` `Databricks` `Delta Lake` `RAG`
 
-[View repository →](https://github.com/cleidyanne-castro/ecommerce-rag-chatbot)
+[View repository](https://github.com/cleidyanne-castro/ecommerce-rag-chatbot)
 
 ### AWS Digital Bank Triage Assistant
 
@@ -95,7 +95,7 @@ An AI-assisted banking workflow designed to classify customer requests and route
 
 **Stack:** `AWS` `Python` `LLM Workflows` `AI Triage`
 
-[View repository →](https://github.com/cleidyanne-castro/aws-digital-bank-triage-assistant)
+[View repository](https://github.com/cleidyanne-castro/aws-digital-bank-triage-assistant)
 
 ### BCB Databricks Case
 
@@ -110,7 +110,7 @@ An end-to-end Databricks Lakehouse pipeline transforming Brazilian Central Bank 
 
 **Stack:** `Databricks` `Python` `SQL` `Delta Lake` `Medallion Architecture`
 
-[View repository →](https://github.com/cleidyanne-castro/bcb-databricks-case)
+[View repository](https://github.com/cleidyanne-castro/bcb-databricks-case)
 
 ### Clinical RAG Assistant
 
@@ -125,7 +125,7 @@ A collaborative RAG project focused on educational information about high blood 
 
 **Stack:** `Python` `Data Engineering` `RAG` `LLMs`
 
-[View my repositories →](https://github.com/cleidyanne-castro?tab=repositories)
+[View my repositories](https://github.com/cleidyanne-castro?tab=repositories)
 
 ---
 
@@ -176,3 +176,9 @@ business:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14b8a6,100:5eead4&height=120&section=footer"/>
 
 </div>
+
+## Mobile verification
+
+The live site includes a responsive layout with a single-column mobile breakpoint. The verification checklist records what can be checked in a browser and which checks require a physical device.
+
+See [MOBILE_CHECKLIST.md](MOBILE_CHECKLIST.md).
