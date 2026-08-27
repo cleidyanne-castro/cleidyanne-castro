@@ -80,7 +80,7 @@ A squad project combining **data engineering, retrieval, and generative AI** for
 
 **Stack:** `Python` `SQL` `Spark` `Databricks` `Delta Lake` `RAG`
 
-[View repository](https://github.com/cleidyanne-castro/ecommerce-rag-chatbot)
+[Open landing page](https://cleidyanne-castro.github.io/ecommerce-rag-chatbot/) · [View repository](https://github.com/cleidyanne-castro/ecommerce-rag-chatbot)
 
 ### AWS Digital Bank Triage Assistant
 
@@ -95,7 +95,7 @@ An AI-assisted banking workflow designed to classify customer requests and route
 
 **Stack:** `AWS` `Python` `LLM Workflows` `AI Triage`
 
-[View repository](https://github.com/cleidyanne-castro/aws-digital-bank-triage-assistant)
+[Open landing page](https://cleidyanne-castro.github.io/aws-digital-bank-triage-assistant/) · [View repository](https://github.com/cleidyanne-castro/aws-digital-bank-triage-assistant)
 
 ### BCB Databricks Case
 
@@ -110,7 +110,7 @@ An end-to-end Databricks Lakehouse pipeline transforming Brazilian Central Bank 
 
 **Stack:** `Databricks` `Python` `SQL` `Delta Lake` `Medallion Architecture`
 
-[View repository](https://github.com/cleidyanne-castro/bcb-databricks-case)
+[Open landing page](https://cleidyanne-castro.github.io/bcb-databricks-case/) · [View repository](https://github.com/cleidyanne-castro/bcb-databricks-case)
 
 ### Clinical RAG Assistant
 
@@ -125,7 +125,21 @@ A collaborative RAG project focused on educational information about high blood 
 
 **Stack:** `Python` `Data Engineering` `RAG` `LLMs`
 
-[View my repositories](https://github.com/cleidyanne-castro?tab=repositories)
+[Open landing page](https://cleidyanne-castro.github.io/bloodpressure-rag-assistant/) · [View repository](https://github.com/cleidyanne-castro/bloodpressure-rag-assistant)
+
+### LH Nautical | Data & Analytics Engineering
+
+An end-to-end case transforming operational data into trusted dashboards, demand forecasting, product recommendations, and business insights.
+
+**My contribution**
+
+- Relational modeling and data-quality validation
+- Databricks Bronze, Silver, and Gold architecture
+- Executive analytics, forecasting, and recommendation logic
+
+**Stack:** `Python` `SQL` `PostgreSQL` `Databricks` `Spark` `Delta Lake`
+
+[Open landing page](https://cleidyanne-castro.github.io/lh-nautical-lighthouse/) · [View repository](https://github.com/cleidyanne-castro/lh-nautical-lighthouse)
 
 ---
 
